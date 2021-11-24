@@ -5,8 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eodioguin/)
 [![Twitch](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Dioguin#9137)
 
-![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoDesenvolvedor&show_icons=true&theme=dracula&count_private=true)
-
 ## 🚀 | Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block">
