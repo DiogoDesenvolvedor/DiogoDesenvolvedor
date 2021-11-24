@@ -55,4 +55,4 @@ Um jovem de 15 anos que encontrou seu lugar no mundo atráves da programação.
 - [Sistema de Desmanche Free](https://www.youtube.com/watch?v=WptQeu4XKqY&t=250s)<br/>
 </div><br/>
 
-README.md feito por Vieira#0969
+README.md
